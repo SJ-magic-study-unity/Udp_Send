@@ -13,6 +13,8 @@
 ## Device ##
 
 ## note ##
+最新は  
+https://github.com/SJ-magic-study-unity/study__oF_unity_Udp_tips
 
 
 
